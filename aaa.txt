@@ -95,40 +95,40 @@ Krigizisztán;Ala-Too Square;Bishkek;1984
 Kiribati;Tarawa;Tarawa;1521
 Kolumbia;Plaza Bolívar;Bogotá;1821
 Kongói Demokratikus Köztársaság;Garamba National Park;Garamba;1938
-Koszovó;
-Közép-afriaki Köztársaság;
-Kuba;
-Kuvait;
-Laosz;
-Lengyelország;
-Lesotho;
-Lettország;
-Libanon;
-Libéria;
-Líbia;
-Liechtenstein;
-Litvánia;
-Luxemburg;
-Madagaszkár;
-Magyarország;
-Malajzia;
-Malawi;
-Maldív-szigetek;
-Mali;
-Málta;
-Marokkó;
-Marshall-szigetek;
-Mauritánia;
-Mauritus;
-Mexikó;
-Mianmar;
-Mikronázia;
-Moldva;
-Monaco;
-Mongólia;
-Montenegró;
-Mozambik;
-Namíbia;
+Koszovó;Prokletije National Park;Gjakova és Peja;2012
+Közép-afriaki Köztársaság;Cathedrale Notre-Dame;Bangui;1937
+Kuba;Malecon;Havanna;1902
+Kuvait;Kuwait Tornyok;Kuvait;1979
+Laosz;Phousi Hill;Luangprabang;1788
+Lengyelország;Waweli székesegyház;Krakkó;1020
+Lesotho;Pioneer Mall;Maseru;2006
+Lettország;House of the Black Heads;Riga;1999
+Libanon;Beruiti Nemzeti Múzeum;Beruit;1942
+Libéria;Libériai Nemzeti Múzeum;Monrovia;1958
+Líbia;Saraya Múzeum;Tripoli;1919
+Liechtenstein;Kunstmuseum;Vaduz;2000
+Litvánia;Trakai vár;Tarkai;1430
+Luxemburg;Vianden Kastély;Luxemburg;1100
+Madagaszkár;Isalo National Park;Ihorombe;1962
+Magyarország;Ötvenhatosok tere;Budapest;1951
+Malajzia;Petronas-ikertorony;Kuala Lumpur;1998
+Malawi;Mvuu Camp;Chiwambo;2001
+Maldív-szigetek;Hukuru Miskiy;Kaafu Atollon;1658
+Mali;Nemzeti Múzeum;Bamako;1953
+Málta;Casa Rocca Piccola;Valletta;1580
+Marokkó;Jamaa El Fna Square;Marrákes;1050
+Marshall-szigetek;;;
+Mauritánia;Muaritániai Nemzeti Múzeum;Nouakchot;1972
+Mauritus;Grand Bassin;Ganga Talao;1898 
+Mexikó;Mexikói Nemzeti Régészeti Múzeum;Mexikóváros;1964
+Mianmar;Shwedagon Pagoda;Burma;1372
+Mikronázia;;;
+Moldova;Soroca Erõd;Soroca;1499
+Monaco;A monte-carlói kaszinó;Monte-Carlo;1865
+Mongólia;Chinggis Khaan Statue Complex;Ulánbátor;1820
+Montenegró;Ostrog Kolostor;Montenegró;1670
+Mozambik;Gorongosa Nemzeti Park;Valley;1920
+Namíbia;Etosha Nemzeti Park;Okuakejo;1907
 Nauru;
 Németország;
 Nepál;
@@ -153,7 +153,6 @@ Románia;
 Ruanda;
 Saint Kitts és Nevis;
 Saint Lucia;
-Saint Vincent és a Grenadine-szigetek;
 Salamon-szigetek;
 Salvador;
 San Marino;
