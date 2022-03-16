@@ -37,15 +37,15 @@ Dél-afrikai Köztársaság;Maclear's Beacon;Fokváros;1844
 Dél-Korea;Kjongbokkung;Jongno-gu;1590
 Dél-Oszétia;Keli Lake;Mtskheta-Mtianeti;1800
 Dél-Szudán;Jebel Barkal;Karima;2003
-Dnyeszter Menti Köztársaság;tiraszpoli Kultúrpalota;1792
+Dnyeszter Menti Köztársaság;tiraszpoli Kultúrpalota;Tiraszpol;1792
 Dominikai Közösség;Carbits National Park;Portsmouth;1760
 Dominikai Köztársaság;Bavaro Beach;Bavaro;1780
 Dzsibuti;Lac'Assal;Dzsibuti;1892
 Ecuador;Quilotoa;Andok;1500
 Egyenlítõi-Guinea;Malabo;Malabo;1827
-Egyesült Államok;Sedan-kráter;Mercury,1994
+Egyesült Államok;Sedan-kráter;Mercury;1994
 Egyesült Arab Emírségek;Budzs Kalifa;Dubaj;2010
-Egyesült Királyság;Buckingham-palota;1705
+Egyesült Királyság;Buckingham-palota;London;1705
 Egyiptom;Egyiptomi Régiségek Múzeuma;Tahrír;1897
 Elefántcsontpart;Comoé Nemzeti Park;Zanzan;1983
 Eritrea;Aszmara;Aszmara;1991
@@ -57,7 +57,7 @@ Fehéroroszország;Mir kastély;Mir;1506
 Fidzsi-szigetek;Koroyanitu Nemzeti Park;Viti Levu;1965
 Finnország;helsinki székesegyház;Helsinki;1852
 Franciaország;Eiffel torony;Párizs;1889
-Fülöp-szigetek;Puerto Princesa Subtrranean River Nemzeti Park;;Puetro Princesa;1999
+Fülöp-szigetek;Puerto Princesa Subtrranean River Nemzeti Park;Puetro Princesa;1999
 Gabon;Libreville;Libreville;1849
 Gambia;Abuko Nature Reserve;Brikama Hwy;1968
 Ghána;Kakum Nemzeti Park;Kakum;1992
@@ -70,7 +70,7 @@ Guyana;Kaieteur vízesés;Potaro-Siparuni;1870
 Haiti;Citadelle Laferriére;Vaseux;1820
 Hollandia;Cricuit Zandvoort;Zandvoort;1958
 Honduras;Yojoa-tó;Yojoa;2005
-Horvátország;A zátonyra futott kapcsolatok Múzeuma,Zágráb;2010
+Horvátország;A zátonyra futott kapcsolatok Múzeuma;Zágráb;2010
 India;Tádzs Mahal;Agra;1647
 Indonézia;Borobudur;Yogykara;100
 Irak;Sami Abdulrahman Park;Erbíl;2004
@@ -117,82 +117,78 @@ Maldív-szigetek;Hukuru Miskiy;Kaafu Atollon;1658
 Mali;Nemzeti Múzeum;Bamako;1953
 Málta;Casa Rocca Piccola;Valletta;1580
 Marokkó;Jamaa El Fna Square;Marrákes;1050
-Marshall-szigetek;;;
+Marshall-szigetek;None;None;0
 Mauritánia;Muaritániai Nemzeti Múzeum;Nouakchot;1972
 Mauritus;Grand Bassin;Ganga Talao;1898 
 Mexikó;Mexikói Nemzeti Régészeti Múzeum;Mexikóváros;1964
 Mianmar;Shwedagon Pagoda;Burma;1372
-Mikronázia;;;
+Mikronázia;None;None;0
 Moldova;Soroca Erõd;Soroca;1499
 Monaco;A monte-carlói kaszinó;Monte-Carlo;1865
 Mongólia;Chinggis Khaan Statue Complex;Ulánbátor;1820
 Montenegró;Ostrog Kolostor;Montenegró;1670
 Mozambik;Gorongosa Nemzeti Park;Valley;1920
 Namíbia;Etosha Nemzeti Park;Okuakejo;1907
-Nauru;
-Németország;
-Nepál;
-Nicaragua;
-Niger;
-Nigéria;
-Norvégia;
-Nyugat-Szahara;
-Olaszország;
-Omán;
-Oroszország;
-Örményország;
-Palesztina;
-Pakisztán;
-Palau;
-Panama;
-Pápua Új-Guinea;
-Paraguay;
-Peru;
-Portugália;
-Románia;
-Ruanda;
-Saint Kitts és Nevis;
-Saint Lucia;
-Salamon-szigetek;
-Salvador;
-San Marino;
-Sao Tomé és Príncipe;
-Seychelle-szigetek;
-Sierra Leone;
-Spanyolország;
-Srí Lanka;
-Suriname;
-Svájc;
-Svédország;
-Szamoa;
-Szaúd-Arábia;
-Szenegál;
-Szerbia;
-Szingapúr;
-Szíria;
-Szlovákia;
-Szomália;
-Szudán;
-Szváziföld;
-Tádzsikisztán;
-Tanzánia;
-Thaiföld;
-Togo;
-Tonga;
-Törökország;
-Trinidad és Tobago;
-Tunézia;
-Tuvalu;
-Türkmenisztán;
-Uganda;
-Új-Zéland;
-Ukrajna;
-Uruguay;
-Üzbegisztán;
-Vanuatu;
-Vatikán;
-Venezuela;
-Vietná,;
-Zambia;
-Zimbabwe;
-Zöld-foki Köztársaság;
+Nauru;Makwa;Yaren;1968
+Németország;Memorial to the Murdered Jews of Europe;Berlin;2005
+Nepál;Boudha Stupa;Katmandu;Katmandu;206
+Nicaragua;Boldogságos Szûz Mária Mennybemenetele igazi és híres bazilikai székesegyháza;León;1814
+Niger;Agadez Grand Mosque;Agadez;1515
+Nigéria;Lagosi Szabadság Park;Lagos;1960
+Norvégia;Viking Hajómúzeum;Oslo;1926
+Olaszország;La Galleria Nazionale;Róma;1883
+Omán;Sultan Qaboos Grand Mosque;Maszkat;2001
+Oroszország;Boldog Vazul-székesegyház;Moszkva;1561
+Örményország;Köztársaság tér;Mraparak;1924
+Pakisztán;Shah Faisal Masjid;Iszlámábád;1986
+Palau;Ngerulmud;Ngerulmud;2006
+Panama;Biomuseo;Panamaváros;2014
+Pápua Új-Guinea;Madang torony;Madang;2005
+Paraguay;Hõsök Nemzeti Pantheonja;Asunción;1864
+Peru;Machu Picchu;Machu Picchu;1400
+Portugália;Park and National Palace of Pena;Sintra;1854
+Románia;A tölcsvári kastély;Törcsvár;1300
+Ruanda;Kigali Genocide Memorial;Kigali;1994
+Saint Kitts és Nevis;Brimstone Hill Fortress National Park;Saint Kitts és Nevis;1711
+Saint Lucia;Pigeon Island;Saint Lucia;1500
+Salamon-szigetek;Vilu Military Museum;None;1975
+Salvador;Joya de Cerén;Agua Escondida;600
+San Marino;Guaita Tower;San Marino;1000
+Sao Tomé és Príncipe;Rolas Island;None;0
+Seychelle-szigetek;La Digue;None;0
+Sierra Leone;Bunce Island;None;0
+Spanyolország;la Sagrada Família;Barcelona;1882
+Srí Lanka;Dambulla Royal Cave Temple and Golden Temple;Dambulla;1000
+Suriname;Presidential Palace;Paramaribo;1730
+Svájc;Fraumünster;Zürich;853
+Svédország;Stockholmi Palota;Stockholm;1754
+Szamoa;Apia;Apia;1876
+Szaúd-Arábia; Al Mamlaka Towe;Medina;1999
+Szenegál;Afrikai újjászületés emlékmûve;Ouakam;2006
+Szerbia;Nándorfehérvári vár;Belgrád;1403
+Szingapúr;ArtScience Museum;Marina Bay;2011
+Szíria;The Umayyad Mosque;Damascus;715
+Szlovákia;Pozsonyi vár;Pozsony;1265
+Szomália;Almnara Tower;Mogadishu;452
+Szudán;Szudáni Nemzeti Múzeum;Khartoum;1971
+Szváziföld;Hlane Nemzeti Park;Mlilwane;1961
+Tádzsikisztán;Tádzsikisztáni Nemzeti Múzeum;Dusanbe;1934
+Tanzánia;Ngorongoro Természetvédelmi Terület;Ngorongoro;1959
+Thaiföld;Vat Arun;Bangkok;1900
+Togo;Lomé Grand Market;Lomé;1987
+Törökország;Hagia Szophia;Isztambul;1934
+Trinidad és Tobago;Trinidad;Armia;1898
+Tunézia;Szent Vincent de Paul katedrális;Tunisz;1897
+Türkmenisztán;Turkmenbashy Ruhy Mosque;Ashgabat;2004
+Uganda;Kibale National Park;Kibale;1993
+Új-Zéland;Hobbiton™ Movie Set Tours;hobbiton;1999
+Ukrajna;Ukrainian Motherland Monument;Kyiv;1981
+Uruguay;Nemzeti Vizuális Mûvészetek Múzeuma;Montevideo;1911
+Üzbegisztán;Bibi-Khanym Mosque;Samarkand;1404
+Vanuatu;Erakor Island;Erakol;1978
+Vatikán;Szent Péter-bazilika;Róma;1626
+Venezuela;Médanos Isthmus;Médanos;1600
+Vietnám;Hanoi Old Quarter;Hanoi;1995
+Zambia;Alsó-Zambezi Nemzeti Park;Chimukuzi;1983
+Zimbabwe;Hwange National Park;Hwange;1928
+Zöld-foki Köztársaság;Fogo National Park;Fogo;1978
