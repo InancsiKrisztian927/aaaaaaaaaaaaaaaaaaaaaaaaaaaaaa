@@ -49,7 +49,7 @@ Egyesült Királyság;Buckingham-palota;London;1705
 Egyiptom;Egyiptomi Régiségek Múzeuma;Tahrír;1897
 Elefántcsontpart;Comoé Nemzeti Park;Zanzan;1983
 Eritrea;Aszmara;Aszmara;1991
-Észak-Korea;Kim Ir Szen mauzóleum;Kumsusan Palace of the Sun;1994
+Észak-Korea;Kim Ir Szen mauzóleum;Phenjan;1994
 Észak-Macedónia;Szkopje erõd;Skopje;300
 Észtország;Lahemaa Nemzeti Park;Váru Raba;1971
 Etiópia;Axum városa;Axum;1980
@@ -112,7 +112,7 @@ Luxemburg;Vianden Kastély;Luxemburg;1100
 Madagaszkár;Isalo Nemzeti Park;Ihorombe;1962
 Magyarország;Ötvenhatosok tere;Budapest;1951
 Malajzia;Petronas-ikertorony;Kuala Lumpur;1998
-Malawi;Mvuu Camp;Chiwambo;2001
+Malawi;Mvuu Tábor;Chiwambo;2001
 Maldív-szigetek;Hukuru Miskiy;Kaafu Atollon;1658
 Mali;Nemzeti Múzeum;Bamako;1953
 Málta;Casa Rocca Piccola;Valletta;1580
@@ -130,7 +130,7 @@ Montenegró;Ostrog Kolostor;Montenegró;1670
 Mozambik;Gorongosa Nemzeti Park;Valley;1920
 Namíbia;Etosha Nemzeti Park;Okuakejo;1907
 Nauru;Makwa;Yaren;1968
-Németország;Memorial to the Murdered Jews of Europe;Berlin;2005
+Németország;Meggyilkolt európai zsidók emlékmûve;Berlin;2005
 Nepál;Boudha Stupa;Katmandu;206
 Nicaragua;Boldogságos Szûz Mária Mennybemenetele igazi és híres bazilikai székesegyháza;León;1814
 Niger;Agadez Grand Mosque;Agadez;1515
@@ -148,25 +148,25 @@ Paraguay;Hõsök Nemzeti Pantheonja;Asunción;1864
 Peru;Machu Picchu;Machu Picchu;1400
 Portugália;Park and National Palace of Pena;Sintra;1854
 Románia;A tölcsvári kastély;Törcsvár;1300
-Ruanda;Kigali Genocide Memorial;Kigali;1994
-Saint Kitts és Nevis;Brimstone Hill Fortress National Park;Saint Kitts és Nevis;1711
-Saint Lucia;Pigeon Island;Saint Lucia;1500
-Salamon-szigetek;Vilu Military Museum;None;1975
+Ruanda;Kigali Genocide emlékmû;Kigali;1994
+Saint Kitts és Nevis;Brimstone Hill Fortress Nemzeti Park;Saint Kitts és Nevis;1711
+Saint Lucia;Galamb Sziget;Saint Lucia;1500
+Salamon-szigetek;Vilu Katonai Múzeum;None;1975
 Salvador;Joya de Cerén;Agua Escondida;600
 San Marino;Guaita Tower;San Marino;1000
 Sao Tomé és Príncipe;Rolas Island;None;0
 Seychelle-szigetek;La Digue;None;0
 Sierra Leone;Bunce Island;None;0
-Spanyolország;la Sagrada Família;Barcelona;1882
-Srí Lanka;Dambulla Royal Cave Temple and Golden Temple;Dambulla;1000
-Suriname;Presidential Palace;Paramaribo;1730
+Spanyolország;Sagrada Família;Barcelona;1882
+Srí Lanka;Dambulla barlangi templom és Dambulla Arany temploma;Dambulla;1000
+Suriname;Presidential Kastély;Paramaribo;1730
 Svájc;Fraumünster;Zürich;853
 Svédország;Stockholmi Palota;Stockholm;1754
 Szamoa;Apia;Apia;1876
 Szaúd-Arábia; Al Mamlaka Towe;Medina;1999
 Szenegál;Afrikai újjászületés emlékmûve;Ouakam;2006
 Szerbia;Nándorfehérvári vár;Belgrád;1403
-Szingapúr;ArtScience Museum;Marina Bay;2011
+Szingapúr;ArtScience múzeum;Marina Bay;2011
 Szíria;The Umayyad Mosque;Damascus;715
 Szlovákia;Pozsonyi vár;Pozsony;1265
 Szomália;Almnara Tower;Mogadishu;452
@@ -175,7 +175,7 @@ Szváziföld;Hlane Nemzeti Park;Mlilwane;1961
 Tádzsikisztán;Tádzsikisztáni Nemzeti Múzeum;Dusanbe;1934
 Tanzánia;Ngorongoro Természetvédelmi Terület;Ngorongoro;1959
 Thaiföld;Vat Arun;Bangkok;1900
-Togo;Lomé Grand Market;Lomé;1987
+Togo;Lomé Nagy Piac;Lomé;1987
 Törökország;Hagia Szophia;Isztambul;1934
 Trinidad és Tobago;Trinidad;Armia;1898
 Tunézia;Szent Vincent de Paul katedrális;Tunisz;1897
@@ -190,5 +190,5 @@ Vatikán;Szent Péter-bazilika;Róma;1626
 Venezuela;Médanos Isthmus;Médanos;1600
 Vietnám;Hanoi Old Quarter;Hanoi;1995
 Zambia;Alsó-Zambezi Nemzeti Park;Chimukuzi;1983
-Zimbabwe;Hwange National Park;Hwange;1928
+Zimbabwe;Hwange Nemzeti Park;Hwange;1928
 Zöld-foki Köztársaság;Fogo National Park;Fogo;1978
