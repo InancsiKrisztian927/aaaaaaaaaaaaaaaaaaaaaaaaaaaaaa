@@ -71,13 +71,6 @@ while option !=-1:
                 
                 found = True
                 break
-
-            elif a == "Ukrajna":
-                
-                print("\t\nMég létezik, de nem sokáig")
-
-                found = True
-                break
                 
         if found == False:
             
